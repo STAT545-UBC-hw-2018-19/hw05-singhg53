@@ -162,8 +162,8 @@ ggsave("revamp.jpeg", revamp, height = 6, width = 9)
 
 Now let's embed this on our report
 
-![my_plot#1.png]()
+![my_plot#1.png](https://github.com/STAT545-UBC-students/hw05-singhg53/blob/master/my_plot%231.png)
 
-![revamp.jpeg]()
+![revamp.jpeg](https://github.com/STAT545-UBC-students/hw05-singhg53/blob/master/my_plot%232.jpeg)
 
 # I hope you enjoyed my page!
